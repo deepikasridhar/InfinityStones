@@ -1,0 +1,141 @@
+/* .container {
+	margin: 50px; 
+} */
+
+.navbar {
+	background-color:#33B5FF;
+}
+.navbar-brand {
+	margin-left: 20px; 
+	font-family: Helvetica; 
+	color: white;
+}
+
+.main {
+	width: 800px; 
+	height:400px; 
+	margin-top: 7%; 
+	margin-left: 24%; 
+	border-radius: 15px; 
+	background-color: #F3F3F3;
+}
+
+#instruction {
+	height: 8%; 
+	padding-top: 6%;
+}
+
+.error-msg {
+	color: red;
+	width: 60%;
+	height: 60%;
+	margin-left: 9%;
+	margin-top: 8%;
+	font-size: 14px;
+	/* background-color: yellow; */
+}
+#h3 {
+	text-align: center; 
+	font-family: 'Cochin'; 
+	color: black;
+}
+#outer {
+	width: 100%; 
+	height:50%; 
+	margin-top:75px; 
+	margin-left: 32%;
+}
+#inner {
+	width:35%; 
+	height:100%; 
+	float: center;
+	margin-bottom: 10px;
+}
+
+.login-input {
+	width: 100%;
+
+}
+.password-input {
+	width: 100%;
+}
+.register {
+	margin-top: 20%;
+}
+li {
+	list-style-type: none;
+}
+a {
+	color: black;
+	text-decoration: none;
+}
+.register-input {
+	margin-left: 15px;
+}
+.password-register-input {
+	margin-left: 16px;
+}
+a:hover {
+	text-decoration: none;
+	cursor: pointer;
+}
+#pass {
+	margin-top:10px;
+	margin-bottom: 10px;
+}
+
+.messages {
+	height: 650px;
+	overflow-y: scroll;
+}
+.modal-header {
+	background-color:#33B5FF;
+	color: white;
+	text-align: center;
+	font-family: Helvetica; 
+}
+
+.card {
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+
+.timestamp {
+	float: right;
+}
+
+.message-sender {
+	font-size: larger;
+}
+
+.message-header {
+	margin-bottom: 5px;
+}
+
+#message-button {
+	margin-left: 5px;
+	padding: 25px;
+}
+
+.input-group {
+	margin-top: 25px;
+}
+
+.btn {
+	margin-top: 20px; 
+	width: 85px;
+}
+
+.footer {
+	text-align: center; 
+	margin-top: 3%; 
+	font-family: 'Cochin'; 
+	color: black;
+}
+
+.title{
+	text-align: center;
+}
+.bg-light{
+	background-color: #d5eaff!important;
+}
